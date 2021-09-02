@@ -33,7 +33,7 @@ Thats right. We use Arch *(btw)*. Why did we choose this?
  *(Actually, lots of our development has been on a Chromebook. Not kidding. Funny, right?)*
 
  ## Our Mission
- **If you haven't already gathered that we are young developers having fun, read ^^^...**
+ **If you haven't already gathered that we are young developers having fun, read ^^^**
 
  Our mission and goal is to create a stable, usable, and fast operating system based on the latest and greatest of GNU/Linux. Nothing ever will be outdated, and you get the best of software right from the source.
 
@@ -45,6 +45,12 @@ Thats right. We use Arch *(btw)*. Why did we choose this?
  - Provide a system easy enough for **beginners** to use, but also customizable for advanced **powerusers** to do their work.
  - We facilitate the use of your favorite social media clients such as Discord, Instagram, and QQ Chat. 
 
+
+
 <hr>
 
- [![Netlify Status](https://api.netlify.com/api/v1/badges/b665818d-c42a-4a52-ab17-db73e6e2441a/deploy-status)](https://app.netlify.com/sites/elated-perlman-d73329/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b665818d-c42a-4a52-ab17-db73e6e2441a/deploy-status)](https://app.netlify.com/sites/jovarkos-docs/deploys)
+[![GitHub issues](https://img.shields.io/github/issues/jovarkos/docs)](https://github.com/jovarkos/docs/issues)
+[![Twitter](https://img.shields.io/twitter/url?label=JovarkOS&url=https%3A%2F%2Ftwitter.com%2Fjovarkos)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Ftwitter.com%2Fjovarkos)
+
+*This site is dynamically generated from Markdown with [Docsify](https://docsify.js.org/)*
