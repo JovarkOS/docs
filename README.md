@@ -44,3 +44,7 @@ Thats right. We use Arch *(btw)*. Why did we choose this?
  - Gamers will be right at home. JovarkOS is essentially made up of the same software found on the upcoming [Steam Deck from Valve](https://store.steampowered.com/steamdeck). We strive to bring you the ultimate gaming experience without hassle. *#SteamProtonLife*
  - Provide a system easy enough for **beginners** to use, but also customizable for advanced **powerusers** to do their work.
  - We facilitate the use of your favorite social media clients such as Discord, Instagram, and QQ Chat. 
+
+<hr>
+
+ [![Netlify Status](https://api.netlify.com/api/v1/badges/b665818d-c42a-4a52-ab17-db73e6e2441a/deploy-status)](https://app.netlify.com/sites/elated-perlman-d73329/deploys)
