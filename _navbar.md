@@ -1,8 +1,8 @@
-* Getting started V
+* Getting started ▼
 
   * [Quick start](quickstart.md)
 
-* Configuration V
+* Configuration ▼
   * [Configuration](config-configuration.md)
   * [GNOME Themes](help-themes.md)
   * [Using GNOME Extensions](help-extensions.md)
