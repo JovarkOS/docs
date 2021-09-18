@@ -1,0 +1,11 @@
+.app-nav li ul a{
+    display: flex;
+    text-align: left;
+    padding: 0.5rem;
+    transition: 0.2s all ease-in;
+}
+
+.app-nav li ul a:hover{   
+background-color: #7F8C8D;
+color: white;
+}
