@@ -2,9 +2,9 @@
 ***JovarkOS is an Arch-based GNU/Linux distribution offering stability, usability, and speed, in that order.***
 
 ## Who we are:
-**Teens! All members of the JovarkOS Development Team are under the age of 18.**
+**Teens! Most members of the JovarkOS Development Team will be under the age of 18.**
 That means that if you are a teen, you most likely are eligible to help out as well.
-If you would like to participate in development, please answer the following questions in an email to [lucas@lucasburlingham.me](mailto:lucas@lucasburlingham.me):
+If you would like to participate in development, please answer the following questions in an email to [admin@jovarkos.org](mailto:admin@jovarkos.org):
  - Do you currently use Linux as a daily driver?
     - If so, what is the output of the `uname -a` command? 
  - What is your favorite distro? 
@@ -41,9 +41,11 @@ Thats right. We use Arch *(btw)*. Why did we choose this?
  - The most compatible office software will come preinstalled for you students that don't have MS Office, or don't like Google Docs.
  - Your system will have a selection of curated software titles designed, tested, and *recommended* for students around the globe. Cool, huh?
     - *Some of these applications can be installed by our customizable [convenience scripts](dir_install.md).*
- - Gamers will be right at home. JovarkOS is essentially made up of the same software found on the upcoming [Steam Deck from Valve](https://store.steampowered.com/steamdeck). We strive to bring you the ultimate gaming experience without hassle. *#SteamProtonLife*
+ - Gamers will be right at home. JovarkOS is essentially made up of the same software found on the upcoming [Steam Deck from Valve](https://store.steampowered.com/steamdeck). We strive to bring you a start to the ultimate gaming experience without hassle. *#SteamProtonLife*
  - Provide a system easy enough for **beginners** to use, but also customizable for advanced **powerusers** to do their work.
  - We facilitate the use of your favorite social media clients such as Discord, Instagram, and QQ Chat. 
+ - We will strive not to *elitist*, bash other distros, or hold other members of our community in contempt because of the software they *choose* to run. We like Arch, Linus Torvalds likes Fedora. Use what works for *you*. 
+ - Finally, if there is something you would like to point out, our Discord server is a great way to do that! [Invite]()
 
 
 
