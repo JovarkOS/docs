@@ -39,7 +39,7 @@ Thats right. We use Arch *(btw)*. Why did we choose this?
 
  Your system will be fast, tailored to students and teens. That means:
  - The most compatible office software will come preinstalled for you students that don't have MS Office, or don't like Google Docs.
- - Your system will have a selection of curated software titles designed, tested, and *reccomended* for students around the globe. Cool, huh?
+ - Your system will have a selection of curated software titles designed, tested, and *recommended* for students around the globe. Cool, huh?
     - *Some of these applications can be installed by our customizable [convenience scripts](dir_install.md).*
  - Gamers will be right at home. JovarkOS is essentially made up of the same software found on the upcoming [Steam Deck from Valve](https://store.steampowered.com/steamdeck). We strive to bring you the ultimate gaming experience without hassle. *#SteamProtonLife*
  - Provide a system easy enough for **beginners** to use, but also customizable for advanced **powerusers** to do their work.
