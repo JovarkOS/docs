@@ -45,7 +45,7 @@ Thats right. We use Arch *(btw)*. Why did we choose this?
  - Provide a system easy enough for **beginners** to use, but also customizable for advanced **powerusers** to do their work.
  - We facilitate the use of your favorite social media clients such as Discord, Instagram, and QQ Chat. 
  - We will strive not to *elitist*, bash other distros, or hold other members of our community in contempt because of the software they *choose* to run. We like Arch, Linus Torvalds likes Fedora. Use what works for *you*. 
- - Finally, if there is something you would like to point out, our Discord server is a great way to do that! [Invite]()
+ - Finally, if there is something you would like to point out, our Discord server is a great way to do that! [Invite](https://discord.gg/8jabsmuyU3)
 
 
 
