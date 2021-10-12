@@ -10,7 +10,7 @@ If you would like to participate in development, please answer the following que
  - What is your favorite distro? 
     - Why? Be specific, but being a distrohopper is OK too.
  - What development/team environment are you familiar with? Can you cite where you get your ideas and development philosophy?
-    - We loosely adhere to the [Agile DevOps philosophy](https://agilemanifesto.org), and of course, the [Unix Philosophy](http://s3.eurecom.fr/~balzarot/softdev/material/0_2_unix_philosophy.pdf).
+    - We loosely adhere to the [Agile DevOps philosophy](https://agilemanifesto.org), and of course, the [Unix Philosophy](http://s3.eurecom.fr/~balzarot/softdev/material/0_2_unix_philosophy.pdf), without sacrificing stability, usability, and speed.
  - Roughly, without giving too much information, tell us where in the world you live. 'Cause we don't want to force people to have Zoom meetings at 3AM.
     - We already have members that live in opposite sides of the globe. Make sure you tell us if you live in Antartica.
  - Describe why you think that you would be a good fit for being on the JovarkOS Development team.
