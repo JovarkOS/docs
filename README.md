@@ -37,13 +37,12 @@ Thats right. We use Arch *(btw)*. Why did we choose this?
 
  Our mission and goal is to create a stable, usable, and fast operating system based on the latest and greatest of GNU/Linux. Nothing ever will be outdated, and you get the best of software right from the source.
 
- Your system will be fast, tailored to students and teens. That means:
- - The most compatible office software will come preinstalled for you students that don't have MS Office, or don't like Google Docs.
- - Your system will have a selection of curated software titles designed, tested, and *recommended* for students around the globe. Cool, huh?
-    - *Some of these applications can be installed by our customizable [convenience scripts](dir_install.md).*
- - Gamers will be right at home. JovarkOS is essentially made up of the same software found on the upcoming [Steam Deck from Valve](https://store.steampowered.com/steamdeck). We strive to bring you a start to the ultimate gaming experience without hassle. *#SteamProtonLife*
+ Your system will be fast, tailored to those who want customization, but not at the cost of usability. That means:
+ - Your system will have a selection of curated software titles designed, tested, and *recommended* for daily use.
+    - *Find some of these applications with the `jovark-software-recommendations` tool (Still in development).*
+ - Gamers will be right at home. JovarkOS is essentially made up of the same software found on the [Steam Deck from Valve](https://store.steampowered.com/steamdeck). We strive to give you a base for an enjoyable gaming experience without too much configuration. *Hint: Use Proton*
  - Provide a system easy enough for **beginners** to use, but also customizable for advanced **powerusers** to do their work.
- - We facilitate the use of your favorite social media clients such as Discord, Instagram, and QQ Chat. 
+ - We facilitate the use of your favorite social media clients such as Discord, Instagram, Signal, Telegram, and Element.
  - We will strive not to *elitist*, bash other distros, or hold other members of our community in contempt because of the software they *choose* to run. We like Arch, Linus Torvalds likes Fedora. Use what works for *you*. 
  - Finally, if there is something you would like to point out, our Discord server is a great way to do that! [Invite](https://discord.gg/8jabsmuyU3)
 
